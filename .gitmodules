@@ -1,0 +1,4 @@
+[submodule "kartik-repo-1"]
+	path = kartik-repo-1
+	url = https://github.com/kartik-579/kartik-repo-1.git
+	branch = main
